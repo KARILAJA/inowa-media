@@ -1,0 +1,7 @@
+ref beta, maybe work or not
+
+npm install axios fs readline
+
+nano code.txt
+
+node inowa.js
